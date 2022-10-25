@@ -1,17 +1,39 @@
 # TK Store
-简介：一个Web应用程序
+INTRO: A JavaWeb application
 
-# 目录
+**Language: [English]()**
+
+# Content
 ---
-- [项目结构](#项目结构)
-- [技术支持](#技术支持)
+- [Project Structure]()
+- [Technology Support](th.md)
 
-# 如何开始
+# How to Start
 
+**`SpringBoot Part`** 
 
+> Check configration to file"application.properties"
+>
+> default port:**`1055`**
+>
+> Most importent that is **`DatabaseConfig`**
 
-# 技术支持
-- [node.js (Vue Require)](https://nodejs.org/zh-cn/)
-- [Vue 3](https://vuejs.org/)
-- [Spring boot 2.7.5](https://spring.io/)
-- [Element Plus (for Vue 3)](https://element-plus.gitee.io/zh-CN/)
+### Not Sure?
+
+Go To : [SpringINIT](https://start.spring.io)
+
+**`VUE 3 Part`**
+
+```shell
+npm run serve
+```
+
+# What you need
+
+- [JDK 1.8]()
+- [Maven 3.8.6]()
+
+- [node.js (npm require)](https://nodejs.org/zh-cn/)
+- [npm (Vue require)]()
+- [Vue](https://vuejs.org/)
+
