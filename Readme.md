@@ -1,7 +1,7 @@
 # TK Store
 INTRO: A JavaWeb application
 
-**Language: [English]()**
+**Language: [English]()|[Chinese](Readme-zh-cn)**
 
 # Content
 ---
@@ -20,7 +20,7 @@ INTRO: A JavaWeb application
 
 ### Not Sure?
 
-Go To : [SpringINIT](https://start.spring.io)
+Go to start spring boot initialization : [SpringINIT](https://start.spring.io)
 
 **`VUE 3 Part`**
 
