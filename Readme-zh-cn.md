@@ -2,7 +2,7 @@
 
 简介：商店
 
-**Language: [English](Readme.md)|[Chinese](Readme-zh-cn)**
+**Language: [English]()|[Chinese](Readme-zh-cn.md)**
 
 # 目录
 

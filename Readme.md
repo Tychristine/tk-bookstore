@@ -1,7 +1,7 @@
 # TK Store
 INTRO: A JavaWeb application
 
-**Language: [English]()|[Chinese](Readme-zh-cn)**
+**Language: [English]()|[Chinese](Readme-zh-cn.md)**
 
 # Content
 ---
