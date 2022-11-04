@@ -2,15 +2,15 @@
 
 简介：商店
 
-**Language: [English]()|[Chinese](Readme-zh-cn.md)**
+**Language: [English](https://github.com/Asaka-xin/tk-bookstore#readme)|[Chinese](Readme-zh-cn.md)**
 
 # 目录
 
 ---
 
-- [设计方案]()
-- [项目结构]()
-- [技术支持](th.md)
+- [有关项目的设计文稿](doc/Design.md)
+- [技术栈](doc/ths.md)
+- [继续浏览本页面](#快速开始)
 
 # 快速开始
 
@@ -24,7 +24,7 @@
 
 ### 不确定?
 
-Go To : [SpringINIT](https://start.spring.io)
+SpringBoot初始化页面 : [SpringINIT](https://start.spring.io)
 
 `VUE 3 部分`
 

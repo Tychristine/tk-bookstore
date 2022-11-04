@@ -1,18 +1,21 @@
-# TK Store
+[toc]
+
 INTRO: A JavaWeb application
 
-**Language: [English]()|[Chinese](Readme-zh-cn.md)**
+**Language: [English](https://github.com/Asaka-xin/tk-bookstore#readme) | [Chinese](doc\Readme-zh-cn.md)**
 
 # Content
 ---
-- [Project Structure]()
-- [Technology Support](th.md)
+
+- [About project documentation](doc/Design.md)
+- [Technology Stack](doc/ths.md)
+- [Go on](#How to Start)
 
 # How to Start
 
 **`SpringBoot Part`** 
 
-> Check configration to file"application.properties"
+> Check configration to file "application.properties"
 >
 > default port:**`1055`**
 >
