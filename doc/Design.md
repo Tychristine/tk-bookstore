@@ -1,13 +1,18 @@
 [toc]
 
-# 设计文稿
+# 设 计 文 稿
 
 ## 数据库
 
-要求：
+- Name：asaka
+- URL：data.prprv.com:53306/asaka
 
-表
+```properties
+db.driver=org.mariadb.jdbc.Driver
+db.url=jdbc:mariadb://data.prprv.com:53306/asaka
+db.username=
+db.password=
+# 隐私内容见QQ群
+```
 
-- 用户表
-- 数目表
-- 订单表
+### Table
