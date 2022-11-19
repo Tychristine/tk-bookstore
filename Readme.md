@@ -1,42 +1,19 @@
-[toc]
+<p align="center">
+  <a href="" target="blank">
+    <img src="ico/projectlogo.jpg" alt="Logo" width="160" height="160">
+  </a>
+  <h2 align="center" style="font-weight: 600PX">BOOK FOR YOU</h2>
+</p>
 
-INTRO: A JavaWeb application
+:open_book: **Tk** means "Take a book to read and feeling emotion from words of pages."
 
-**Language: [English](https://github.com/Asaka-xin/tk-bookstore#readme) | [Chinese](doc\Readme-zh-cn.md)**
+:package: **Intro Of Repository**: A Web application system.
 
-# Content
+**Language: [English]() | [Chinese](https://github.com/Asaka-xin/tk-bookstore/blob/main/doc/Readme-zh-cn.md)**
+
+# 🛫Content
 ---
 
-- [About project documentation](doc/Design.md)
-- [Technology Stack](doc/ths.md)
-- [Go on](#How to Start)
-
-# How to Start
-
-**`SpringBoot Part`** 
-
-> Check configration to file "application.properties"
->
-> default port:**`1055`**
->
-> Most importent that is **`DatabaseConfig`**
-
-### Not Sure?
-
-Go to start spring boot initialization : [SpringINIT](https://start.spring.io)
-
-**`VUE 3 Part`**
-
-```shell
-npm run serve
-```
-
-# What you need
-
-- [JDK 1.8]()
-- [Maven 3.8.6]()
-
-- [node.js (npm require)](https://nodejs.org/zh-cn/)
-- [npm (Vue require)]()
-- [Vue](https://vuejs.org/)
+- :page_facing_up: [About project document](https://github.com/Asaka-xin/tk-bookstore/blob/main/doc/Design.md)
+- :page_facing_up: [Check out development document](https://github.com/Asaka-xin/tk-bookstore/blob/main/doc/Developer-document.md)
 

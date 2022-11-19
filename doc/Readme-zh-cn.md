@@ -1,43 +1,21 @@
-# TK Store
+<p align="center">
+  <a href="" target="blank">
+    <img src="../ico/projectlogo.jpg" alt="Logo" width="160" height="160">
+  </a>
+  <h2 align="center" style="font-weight: 600PX">BOOK FOR YOU</h2>
+</p>
 
-简介：商店
 
-**Language: [English](https://github.com/Asaka-xin/tk-bookstore#readme)|[Chinese](Readme-zh-cn.md)**
+:open_book: **Tk**的意思是：“ 拿起一本书来读，从字里行间感受情感。”
 
-# 目录
+:package: **项目介绍**：网页应用程序系统
+
+**Language: [English](https://github.com/Asaka-xin/tk-bookstore#readme) | [Chinese（当前传送门）]()**
+
+# 🛫传送门
 
 ---
 
-- [有关项目的设计文稿](doc/Design.md)
-- [技术栈](doc/ths.md)
-- [继续浏览本页面](#快速开始)
-
-# 快速开始
-
-`SpringBoot 部分` 
-
-> Check configration to file"application.properties"
->
-> default port:`1055`
->
-> Most importent that is `DatabaseConfig`
-
-### 不确定?
-
-SpringBoot初始化页面 : [SpringINIT](https://start.spring.io)
-
-`VUE 3 部分`
-
-```shell
-npm run serve
-```
-
-# 环境搭建需要
-
-- [JDK 1.8]()
-- [Maven 3.8.6]()
-
-- [node.js (npm require)](https://nodejs.org/zh-cn/)
-- [npm (Vue require)]()
-- [Vue](https://vuejs.org/)
+- :page_facing_up: [有关项目设计文稿](https://github.com/Asaka-xin/tk-bookstore/blob/main/doc/Design.md)
+- :page_facing_up: [查看项目开发文稿](https://github.com/Asaka-xin/tk-bookstore/blob/main/doc/Developer-document.md)
 
