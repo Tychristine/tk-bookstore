@@ -1,10 +1,9 @@
 <p align="center">
   <a href="" target="blank">
-    <img src="../ico/projectlogo.jpg" alt="Logo" width="160" height="160">
+    <img src="../ico/logo.jpg" alt="Logo" width="320" height="240">
   </a>
   <h2 align="center" style="font-weight: 600PX">BOOK FOR YOU</h2>
 </p>
-
 
 :open_book: **Tk**的意思是：“ 拿起一本书来读，从字里行间感受情感。”
 
