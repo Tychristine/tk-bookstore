@@ -17,3 +17,13 @@
 - :page_facing_up: [About project document](https://github.com/Asaka-xin/tk-bookstore/blob/main/doc/Design.md)
 - :page_facing_up: [Check out development document](https://github.com/Asaka-xin/tk-bookstore/blob/main/doc/Developer-document.md)
 
+# ⚠️Dev Environment
+
+Use JDK-17.
+
+- JDK-1.8 ❌
+
+*Available JDK are here:*
+
+- ✅[Open JDK-17](https://openjdk.org/projects/jdk/17/)
+- ✅[Oracle JDK-17](https://www.oracle.com/cn/java/technologies/downloads/#java17)
