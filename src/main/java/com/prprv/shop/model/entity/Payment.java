@@ -1,5 +1,7 @@
 package com.prprv.shop.model.entity;
 
+import com.baomidou.mybatisplus.annotation.TableId;
+import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 
 import java.io.Serial;
@@ -10,9 +12,11 @@ import java.util.Date;
  * 支付信息表
  */
 @Data
+@TableName(value = "payment")
 public class Payment implements Serializable {
     @Serial
     private static final long serialVersionUID = 1L;
+    @TableId
     private long id;
     private long userId;
     private long orderNo;

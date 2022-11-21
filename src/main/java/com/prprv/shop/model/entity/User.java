@@ -1,4 +1,6 @@
 package com.prprv.shop.model.entity;
+import com.baomidou.mybatisplus.annotation.TableId;
+import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 import java.io.Serial;
 import java.io.Serializable;
@@ -8,6 +10,7 @@ import java.util.Date;
  * 用户表信息
  */
 @Data
+@TableName(value = "user")
 public class User implements Serializable {
 
     @Serial
@@ -16,6 +19,7 @@ public class User implements Serializable {
     /**
      * 主键
      */
+    @TableId
     private Long id;
 
     /**

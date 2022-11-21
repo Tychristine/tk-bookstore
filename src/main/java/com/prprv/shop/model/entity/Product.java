@@ -1,5 +1,7 @@
 package com.prprv.shop.model.entity;
 
+import com.baomidou.mybatisplus.annotation.TableId;
+import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
@@ -13,9 +15,11 @@ import java.util.Date;
  */
 @Data
 @Component
+@TableName(value = "product")
 public class Product implements Serializable {
     @Serial
     private static final long serialVersionUID = 1L;
+    @TableId
     private long id;
     private String category;
     private String name;
